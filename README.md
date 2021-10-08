@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**RayPan13/RayPan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### RayPan
+我是 Ray ，一名前端工程師，
+目標是成為能夠將任何想法實踐在網站上的工程師。
+不停發想、不斷實踐，探索前端無限可能。
+### 常用程式
+ - HTML
+ - CSS (SCSS)
+ - Javascript (Vue)
+### 常用工具
+- VSCode
+- GitHub
+- VueCli
+- Nuxt
