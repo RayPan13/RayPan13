@@ -6,8 +6,9 @@
  - HTML
  - CSS (SCSS)
  - Javascript (Vue)
-### 順手工具
+### 常用工具
 - VSCode
+- Git
 - GitHub
 - VueCli
 - Nuxt
