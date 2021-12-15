@@ -12,8 +12,8 @@ National Taipei University of Business department of information management
  - CSS (SCSS)
  - Javascript (Vue)
 ### 常用工具
-- VSCode
-- Git
-- GitHub
-- VueCli
-- Nuxt
+ - VSCode
+ - Git
+ - GitHub
+ - VueCli
+ - Nuxt
