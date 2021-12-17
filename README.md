@@ -7,13 +7,9 @@
 國立台北商業大學 資訊管理系  
 National Taipei University of Business department of information management
 
-### 擅長使用
+### 技能
  - HTML
  - CSS (SCSS)
  - Javascript (Vue)
-### 常用工具
- - VSCode
- - Git
- - GitHub
- - VueCli
- - Nuxt
+ - Node.js
+ - SEO
