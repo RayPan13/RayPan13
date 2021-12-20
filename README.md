@@ -17,5 +17,6 @@ National Taipei University of Business department of information management
  - SEO
 ### 工具
  - VSCode
+ - Git
  - Google Ad Manager
  - Google Analytics
