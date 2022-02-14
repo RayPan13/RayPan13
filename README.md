@@ -15,8 +15,10 @@ National Taipei University of Business department of information management
  - CSS (SCSS)
  - Javascript (Vue)
  - SEO
+
 ### 工具
  - VSCode
  - Git
  - Google Ad Manager
  - Google Analytics
+ ___
