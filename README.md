@@ -22,7 +22,7 @@ National Taipei University of Business department of information management
  - Google Ad Manager
  - Google Analytics
 
-### 線上作品
+### 部分作品
 - [https://www.marieclaire.com.tw/](https://www.marieclaire.com.tw/)
 - [https://magazine.marieclaire.com.tw/](https://magazine.marieclaire.com.tw/)
 - [https://raypan13.github.io/quick-news/](https://raypan13.github.io/quick-news/)
