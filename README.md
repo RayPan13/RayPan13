@@ -30,7 +30,6 @@ National Taipei University of Business department of information management
 - [https://www.marieclaire.com.tw/events/2022/pinkrun/](https://www.marieclaire.com.tw/events/2022/pinkrun/)
 - [https://www.marieclaire.com.tw/events/beauty-prizes/2022/](https://www.marieclaire.com.tw/events/beauty-prizes/2022/game2.html)
 - [https://rpec.yuantalife.com.tw/frs/yuanta202107](https://rpec.yuantalife.com.tw/frs/yuanta202107)
-- [https://www.marieclaire.com.tw/events/2020/12/findsanta/](https://www.marieclaire.com.tw/events/2020/12/findsanta/)
 - [https://www.marieclaire.com.tw/events/2020/09/BCC/](https://www.marieclaire.com.tw/events/2020/09/BCC/)
 - [https://www.marieclaire.com.tw/events/2020/07/guerlain/](https://www.marieclaire.com.tw/events/2020/07/guerlain/)
 - [https://www.marieclaire.com.tw/events/2020/03/mc27th/](https://www.marieclaire.com.tw/events/2020/03/mc27th/)
