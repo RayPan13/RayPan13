@@ -25,6 +25,7 @@ National Taipei University of Business department of information management
 ### 部分作品
 - [https://www.marieclaire.com.tw/](https://www.marieclaire.com.tw/)
 - [https://magazine.marieclaire.com.tw/](https://magazine.marieclaire.com.tw/)
+- [https://member.marieclaire.com.tw/](https://member.marieclaire.com.tw/center)
 - [https://raypan13.github.io/quick-news/](https://raypan13.github.io/quick-news/)
 - [https://raypan13.github.io/nuxt-practice/](https://raypan13.github.io/nuxt-practice/)
 - [https://www.marieclaire.com.tw/events/2022/pinkrun/](https://www.marieclaire.com.tw/events/2022/pinkrun/)
