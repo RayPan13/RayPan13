@@ -15,7 +15,7 @@ VSCode、Git、NPM、Google Ad Manager、Google Analytics
 國立台北商業大學 資訊管理系  
 Bachelor of Information Management,National Taipei University of Business,Taipei,Taiwan
 
-### 近期作品
+### 近期作品 Project
 - https://www.marieclaire.com.tw/
 - https://magazine.marieclaire.com.tw/
 - https://member.marieclaire.com.tw/
