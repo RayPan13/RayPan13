@@ -1,10 +1,4 @@
 # RayPan
-我是 Ray ，一名前端工程師，目前任職數位媒體出版業，  
-主要負責官方網站維護、活動網站前端開發、廣告投放處理、數據收集設定。  
-除了不斷精進前端相關技術，更陸續取得 Google Ad Manager 及 Google Analytics 認證。  
-目標是成為能夠將任何想法實踐在網站上的工程師。  
-不停發想、不斷實踐，探索前端無限可能。 
-
 ### 技能 Skills
 HTML、CSS、SCSS、Javascript、Vue、Node.js、SEO
 
@@ -12,6 +6,11 @@ HTML、CSS、SCSS、Javascript、Vue、Node.js、SEO
 VSCode、Git、NPM、Google Ad Manager、Google Analytics
 
 ### 工作經歷 Experience
+#### 國際亞洲出版股份有限公司 - 網頁前端工程師 ( 2017 - present )
+- 處理活動網站前端部分，節省 95% 外包費用。
+- 規劃廣告流程建立素材範本，節省約 80% 上稿及調整時間。
+- 撰寫爬蟲收集並整理數據，節省 100% 整理資料的時間。
+- 規劃 Coding conventions、導入 Git 版控、建立打包工具，提升約 50% 工作效率。
 #### 明陽旅行社有限公司 - 前端工程師 ( 2015 - 2017 )
 - 規劃並建立特定產品網站，一個網站可提升約 10% 營業額。
 - 陸續建立共四個特定產品網站，總攬 100% 網路銷售業務。
