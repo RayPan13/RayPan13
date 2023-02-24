@@ -39,6 +39,7 @@ VSCode、Git、NPM、Google Ad Manager、Google Analytics
 Bachelor of Information Management,National Taipei University of Business,Taipei,Taiwan
 
 ## 近期作品 Project
+- https://codepen.io/RayPan
 - https://www.marieclaire.com.tw/
 - https://magazine.marieclaire.com.tw/
 - https://member.marieclaire.com.tw/
