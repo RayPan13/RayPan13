@@ -37,11 +37,3 @@ VSCode、Git、NPM、Google Ad Manager、Google Analytics
 ## 學歷 Education
 國立台北商業大學 資訊管理系  
 Bachelor of Information Management,National Taipei University of Business,Taipei,Taiwan
-
-## 近期作品 Project
-- https://codepen.io/RayPan
-- https://www.marieclaire.com.tw/
-- https://magazine.marieclaire.com.tw/
-- https://member.marieclaire.com.tw/
-- https://www.marieclaire.com.tw/events/2022/pinkrun/
-- https://www.marieclaire.com.tw/events/beauty-prizes/2022/
