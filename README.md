@@ -16,10 +16,10 @@ VSCode、Git、NPM、Google Ad Manager、Google Analytics
 ### 國際亞洲出版股份有限公司 - 前端網頁工程師 ( 2017-至今 )
 #### Asia Press Publishing Co., Ltd. - Front-End Engineer ( 2017-present )
 - 負責活動網站前端部分，經手公司 95% 活動網站。
-- 規劃廣告流程建立素材範本，節省約 80% 上稿及調整時間。
 - 撰寫爬蟲收集並整理數據，節省 100% 整理資料的時間。
-- 導入 GTM 整合追蹤碼，負責追蹤設定並簡化流程，提升約 70% 效率。
-- 規劃 Coding Conventions、導入 Git 版控、建立打包工具，提升約 50% 效率。
+- 規劃廣告流程建立素材範本，節省上稿及調整時間。
+- 導入 GTM 整合追蹤碼，負責追蹤設定並簡化流程，提升工作效率。
+- 規劃 Coding Conventions、導入 Git 版控、建立打包工具，提升開發效率。
 ### 明陽旅行社有限公司 - 前端工程師 ( 2015-2017 )  
 #### Ming Yang Travel Service Co., Ltd. - Front-End Engineer ( 2015-2017 )
 - 規劃並建立特定產品網站，一個網站可提升約 10% 營業額。  
