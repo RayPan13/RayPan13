@@ -6,12 +6,6 @@
 目標是成為能夠將任何想法實踐在網站上的工程師。  
 不停發想、不斷實踐，探索前端無限可能。
 
-## 技能 Skills
-HTML、CSS、SCSS、Javascript、Vue、Node.js、SEO
-
-## 工具 Tools
-VSCode、Git、NPM、Google Ad Manager、Google Analytics
-
 ## 工作經歷 Experience
 ### 國際亞洲出版股份有限公司 - 前端網頁工程師 ( 2017-至今 )
 #### Asia Press Publishing Co., Ltd. - Front-End Engineer ( 2017-present )
@@ -33,6 +27,12 @@ VSCode、Git、NPM、Google Ad Manager、Google Analytics
 - 建立並維護形象網站，相關關鍵字半年後常駐搜尋結果第一頁部分關鍵字達前三名位置。
 - 同時管理最多達五個電商平台，每月網路銷售額占總銷售額 70% 以上。
 - 經營社群平台，每月有 80% 以上客戶表示透過網路得知公司資訊。
+
+## 技能 Skills
+HTML、CSS、SCSS、Javascript、Vue、Node.js、SEO
+
+## 工具 Tools
+VSCode、Git、NPM、Google Ad Manager、Google Analytics
 
 ## 學歷 Education
 國立台北商業大學 資訊管理系  
