@@ -37,9 +37,3 @@ VSCode、Git、NPM、Google Ad Manager、Google Analytics
 ## 學歷 Education
 國立台北商業大學 資訊管理系  
 Bachelor of Information Management,National Taipei University of Business,Taipei,Taiwan
-
-## 作品集 Portfolio
-#### [數位媒體網站](https://www.marieclaire.com.tw/) (2017／07 - present)
-這是一個提供流行時尚、美容資訊、生活靈感和深度報導文章的網站。
-到職後接手原先由外包公司製作的網站，按需求調整與維護，不定期製作特殊樣板 (節慶樣式、活動樣式)，
-規劃及設定 GA4 事件，確保在各種設備上提供優質的使用體驗，並經歷過三次網站改版。
