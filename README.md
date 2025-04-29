@@ -6,6 +6,23 @@
 目前於數位媒體出版業工作，參與多次大型改版與資料自動化專案，協助團隊穩定交付高品質產品。
 > 「期許自己成為能把任何想法實踐成具體網站的工程師。」
 
+## 技能與工具 (Skills & Tools)
+- **前端技術**:  
+  精通 **HTML5**, **CSS3 (SCSS)**，擅長使用 原生 **JavaScript** 開發高效能的前端功能，  
+  並具備良好的響應式設計與跨裝置相容性經驗。
+- **框架與工具**:  
+  熟悉 **Vue.js** 框架，並能靈活選擇使用原生 **JavaScript** 完成前端需求。  
+  熟練使用 **Git** 進行版本控制，並使用 **Vite** 提升開發效率與自動化測試工具如 **Puppeteer**。
+- **數據與分析**:  
+  擅長使用 **Google Tag Manager (GTM)** 和 **Google Analytics 4 (GA4)** 進行數據追蹤與分析，  
+  並優化用戶行為。熟悉 **Google Ad Manager (GAM)**，可高效管理廣告並優化收益。
+- **SEO 優化**:  
+  精通 **SEO 結構優化**，能進行標籤設定、URL 優化及內容結構規劃，  
+  提升網站的搜尋引擎排名與網站效能。
+- **設計協作與切版**:  
+  熟練處理 **Figma**, **Adobe XD**, **Photoshop (PS)** 設計稿，  
+  並能將其準確轉換為前端頁面，確保在不同裝置上的視覺一致性。
+
 ## 工作經歷 Experience
 ### 國際亞洲出版股份有限公司 - 前端網頁工程師 ( 2017-至今 )
 #### Asia Press Publishing Co., Ltd. - Front-End Engineer ( 2017-present )
@@ -89,12 +106,6 @@
 - 這是一個活動網站的小遊戲，為國際美妝大獎活動增添趣味和互動性。
 - 使用者透過提示的剪影和文字說明，找到正確對應的商品，點擊選擇商品，持續回答直到完成三題通關。
 - 遊戲部分經過重新設計和開發，提供了更豐富的使用者體驗。
-
-## 技能 Skills
-HTML、CSS、SCSS、Javascript、Vue、Node.js、SEO
-
-## 工具 Tools
-VSCode、Git、NPM、Google Ad Manager、Google Analytics
 
 ## 學歷 Education
 國立台北商業大學 資訊管理系  
