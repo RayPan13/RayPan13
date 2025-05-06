@@ -15,8 +15,10 @@
 
   
 ## 精選作品 Selected Works
-### 數位平台系列專案 (2017/07 ~ present)  
-[數位媒體網站](https://www.marieclaire.com.tw/)  /  [電子商務網站](https://magazine.marieclaire.com.tw/)  /  [線上課程網站](https://class.marieclaire.com.tw/)  
+### 數位平台系列專案
+[數位媒體網站](https://www.marieclaire.com.tw/) (2017/07 ~ present)  
+[電子商務網站](https://magazine.marieclaire.com.tw/) (2021/12 ~ present)  
+[線上課程網站](https://class.marieclaire.com.tw/) (2022/09 ~ present)  
 涵蓋媒體、電子商務與線上課程網站的數位產品平台。
 - **使用技術**：HTML、SCSS、JavaScript、GA4、GTM、SEO  
 - **負責項目**：
@@ -31,6 +33,25 @@
   - 透過數據驅動決策，顯著提升電子商務平台的轉換率與課程網站的曝光量  
   - 加強前端測試與品質控制流程，穩定交付高品質產品，提升團隊工作效率
 
+### 行銷活動網站專案
+[Beauty Prizes 2024](https://events.marieclaire.com.tw/2024/beauty-prizes/) (2024/02 ~ 2024/05)  
+[MC Galaxy](https://events.marieclaire.com.tw/2023/mc-galaxy/) (2023/10 ~ 2024/02)  
+[Gift Guide](https://events.marieclaire.com.tw/2023/gift/) (2023/09 ~ 2024/01)  
+[Top 100 Beauty](https://events.marieclaire.com.tw/2023/beautytop100/) (2023/08 ~ 2023/12)  
+[Pink Run](https://events.marieclaire.com.tw/2023/pinkrun/) (2023/06 ~ 2023/11)  
+[Beauty Prizes Game](https://events.marieclaire.com.tw/2023/beauty-prizes/game.html) (2023/02 ~ 2023/06)  
+以年度活動與行銷企劃為主題的網站，結合視覺設計與前端互動技術，提升品牌曝光與會員活躍度。
+- **使用技術**：JavaScript(Vue)、Nuxt、CSS(SCSS)、Swiper.js、Canvas、GA4、GTM
+- **負責項目**：
+  - 忠實實作設計稿與動畫效果，增強網站視覺表現與品牌一致性
+  - 設計並開發互動模組與小遊戲，提高使用者參與度與活動成效
+  - 負責跨裝置響應式開發，確保手機與桌機皆有良好體驗
+  - 串接內部 API 進行會員驗證、資料收集與活動抽獎功能整合  
+  - 規劃 SEO 結構與 GA4 事件追蹤，優化搜尋與數據成效分析 
+- **專案成效**：
+  - 成功強化行銷活動的互動性與趣味性，顯著提升會員參與率  
+  - 提供穩定可靠的前端架構，支援多期活動快速上線與維護  
+  - 強化品牌數位形象，促進用戶對活動網站的黏著與分享
  
 ## 工作經歷 Experience
 ### 國際亞洲出版股份有限公司 - 前端網頁工程師 ( 2017-至今 )
