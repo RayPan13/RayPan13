@@ -55,7 +55,7 @@
 [Top 100 Beauty](https://events.marieclaire.com.tw/2023/beautytop100/) (2023/08 ~ 2023/12)  
 [Pink Run](https://events.marieclaire.com.tw/2023/pinkrun/) (2023/06 ~ 2023/11)  
 [Beauty Prizes Game](https://events.marieclaire.com.tw/2023/beauty-prizes/game.html) (2023/02 ~ 2023/06)  
-#### 以年度活動與行銷企劃為主題的網站，結合視覺設計與前端互動技術，提升品牌曝光與會員活躍度。
+#### 以年度活動或行銷企劃為主題的網站，結合視覺設計與前端互動技術，提升品牌曝光與會員活躍度。
 - **使用技術**：JavaScript(Vue)、Nuxt、CSS(SCSS)、Swiper.js、Canvas、GA4、GTM
 - **核心職責**：
   - 精準實作設計稿與複雜動畫效果，確保視覺還原度 95%+，強化品牌一致性
