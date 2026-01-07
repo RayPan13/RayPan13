@@ -47,7 +47,7 @@
   - 加強前端測試與品質控制流程，穩定交付高品質產品，提升團隊工作效率
 
 ### 行銷活動網站專案
-[Gifted Hours](https://events.marieclaire.com.tw/2025/gift/) (2025/10 ~ 2026/01)  
+[Gifted Hours](https://events.marieclaire.com.tw/2025/gift/) (2025/10 ~ 2026/02)  
 [shoppingday](https://events.marieclaire.com.tw/2024/shoppingday/) (2024/02 ~ 2024/06)  
 [Beauty Prizes 2024](https://events.marieclaire.com.tw/2024/beauty-prizes/) (2024/02 ~ 2024/05)  
 [MC Galaxy](https://events.marieclaire.com.tw/2023/mc-galaxy/) (2023/10 ~ 2024/02)  
@@ -73,7 +73,7 @@
 
 ### 國際亞洲出版股份有限公司 - 前端網頁工程師
 #### Asia Press Publishing Co., Ltd. - Front-End Engineer
-**任職期間**：2017/07 ~ present (7+ 年) | **產業**：數位媒體出版
+**任職期間**：2017/07 ~ present (8+ 年) | **產業**：數位媒體出版
 
 **核心成就**：
 -  **專案主導**：主導 95%+ 活動網站前端開發，從需求分析到上線部署全程負責
