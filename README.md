@@ -47,6 +47,7 @@
   - 加強前端測試與品質控制流程，穩定交付高品質產品，提升團隊工作效率
 
 ### 行銷活動網站專案
+[ZEROTONE](https://events.marieclaire.com.tw/2026/zero-to-one/) (2026/03 ~ 2026/07)  
 [Gifted Hours](https://events.marieclaire.com.tw/2025/gift/) (2025/10 ~ 2026/02)  
 [shoppingday](https://events.marieclaire.com.tw/2024/shoppingday/) (2024/02 ~ 2024/06)  
 [Beauty Prizes 2024](https://events.marieclaire.com.tw/2024/beauty-prizes/) (2024/02 ~ 2024/05)  
