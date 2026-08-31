@@ -1,10 +1,10 @@
 # Ray Pan — Front-End Engineer
 
-**11 年前端與網頁開發經驗，其中 9 年主導同一組產品平台的前端架構、共用元件庫與工程規範。**
-
-我做的事情大致分三塊：把產品的前端架構設計成能撐住長期需求變化的樣子、把重複的開發工作收斂成可複用的元件與流程、以及用數據確認每次改動是不是真的有效。經手的產品橫跨內容平台、電子商務與線上課程，從架構、核心功能、效能優化到追蹤與 SEO 都在負責範圍內。
-
-習慣與設計、後端、產品、行銷在同一個開發週期裡協作，也習慣在需求還沒定案時就先把技術風險講清楚。
+11 年前端與網頁開發經驗，其中 9 年主導同一組產品平台的前端架構、共用元件庫與工程規範。  
+九年在同一組產品上，讓我看見短期專案看不見的事：哪些架構決策撐得住需求變化、哪些抽象是過度設計、哪些技術債會在三年後回來。  
+現在做前端選擇時，我習慣先問這個決定三年後會長什麼樣子。  
+工作範圍涵蓋內容平台、電子商務、線上課程與行銷活動四條產品線，從架構設計、核心功能、效能優化，到數據追蹤與 SEO。  
+與設計、後端、產品、行銷在同一個開發週期裡協作，正在尋找規模更大的系統，把這套做法放上去驗證。  
 
 ---
 
@@ -34,14 +34,6 @@
 
 **協作** Figma、Adobe XD、Code Review、跨部門需求溝通
 
-<!--
-【待補，補完再公開】
-React + TypeScript 實作 repo ×2：
-- 元件庫（React + TypeScript + Storybook）
-- 資料密集型後台（大型表格、篩選排序、圖表、表單驗證）
-repo 完成前不要寫「熟悉 React」。
--->
-
 ---
 
 ## 做過的事 Selected Work
@@ -66,7 +58,6 @@ repo 完成前不要寫「熟悉 React」。
 
 ### 共用元件庫與專案樣板系統
 
-- 盤點九個以上專案的共同介面需求，收斂為統一的元件與樣板集合
 - 建立標準化的專案初始化流程，新專案直接沿用既有結構
 - 設計廣告素材範本系統，將易出錯的手動配置改為規格化流程
 - 制定元件的使用與擴充規範供團隊依循
@@ -89,9 +80,12 @@ repo 完成前不要寫「熟悉 React」。
 - 建立 Code Review 流程並實際擔任審查者
 - 導入 Git Flow 分支策略與 CI/CD 自動化建置部署
 
-### 高頻專案交付紀錄 ・ 2023 – 2026
+### 高頻專案交付紀錄 ・ 2018 – 2026
 
-每個專案需在數週至數月內完成從設計稿到上線的完整前端實作，包含互動模組、Canvas 小遊戲與 API 串接。
+每月完成兩個以上活動型專案，每個需在數週內完成從設計稿到上線的完整前端實作。  
+包含互動模組、Canvas 小遊戲與 API 串接。  
+為維持這個節奏，制定開發規範、導入自動化一鍵部署，
+讓每個專案的開發集中在真正客製的部分。
 
 [ZEROTONE](https://events.marieclaire.com.tw/2026/zero-to-one/) ・ [Gifted Hours](https://events.marieclaire.com.tw/2025/gift/) ・ [shoppingday](https://events.marieclaire.com.tw/2024/shoppingday/) ・ [Beauty Prizes](https://events.marieclaire.com.tw/2024/beauty-prizes/) ・ [MC Galaxy](https://events.marieclaire.com.tw/2023/mc-galaxy/) ・ [Gift Guide](https://events.marieclaire.com.tw/2023/gift/) ・ [Top 100 Beauty](https://events.marieclaire.com.tw/2023/beautytop100/) ・ [Pink Run](https://events.marieclaire.com.tw/2023/pinkrun/)
 
@@ -127,13 +121,3 @@ repo 完成前不要寫「熟悉 React」。
 
 **國立臺北商業大學** ｜ 資訊管理系 ｜ 學士
 Bachelor of Information Management, National Taipei University of Business
-
----
-
-## 關於我 About
-
-在同一家公司持續九年，是因為我想看到自己蓋的系統長期跑下去會發生什麼事——哪些設計撐得住需求變化，哪些抽象是過度設計，哪些技術債會在三年後回來找你。  
-這段經驗讓我比較習慣用「這個決定三年後會怎樣」的角度做前端選擇。  
-接下來想把這套能力放到規模更大、工程複雜度更高的產品上。
-
-> 期許自己成為能把任何想法實踐成具體產品的工程師。
