@@ -1,116 +1,139 @@
-# Ray Pan - Front-End Engineer
-我是一位專注於效能與使用者體驗的前端工程師，具備大型網站開發與維運經驗。  
-熟悉原生 JavaScript 開發，能在無框架下打造高互動性的前端模組，也能靈活整合框架應對複雜需求。  
-擁有多年媒體網站與行銷活動開發經驗，熟悉 GA/GTM 設定、SEO 優化、跨裝置相容性與前端架構優化，  
-善於與設計、後端、行銷團隊協作解決問題，並具備設定網站追蹤事件與建立前端開發規範的實務經驗。  
-目前於數位媒體出版業工作，參與多次大型改版與資料自動化專案，協助團隊穩定交付高品質產品。  
-> 「期許自己成為能把任何想法實踐成具體網站的工程師」
+# Ray Pan — Front-End Engineer
 
+**11 年前端與網頁開發經驗，其中 9 年主導同一組產品平台的前端架構、共用元件庫與工程規範。**
 
-## 技能與工具 Skills & Tools
-### 核心技術 Core Technologies
-- **前端語言**：JavaScript (ES6+)、HTML5、CSS3、SCSS/SASS
-- **前端框架**：Vue.js、Nuxt.js
-- **前端工具**：Vite、Git、CI/CD、Node.js
+我做的事情大致分三塊：把產品的前端架構設計成能撐住長期需求變化的樣子、把重複的開發工作收斂成可複用的元件與流程、以及用數據確認每次改動是不是真的有效。經手的產品橫跨內容平台、電子商務與線上課程，從架構、核心功能、效能優化到追蹤與 SEO 都在負責範圍內。
 
-### 專業能力 Professional Skills
-- **效能優化**：頁面載入優化、程式碼分割、懶加載、快取策略
-- **數據分析**：Google Analytics 4 (GA4)、Google Tag Manager (GTM)
-- **SEO 優化**：結構化資料、Meta 標籤優化、語義化 HTML
-- **響應式設計**：RWD、跨裝置相容性測試、行動優先設計
-- **自動化開發**：Puppeteer 爬蟲、自動化測試、建置流程優化
+習慣與設計、後端、產品、行銷在同一個開發週期裡協作，也習慣在需求還沒定案時就先把技術風險講清楚。
 
-### 協作工具 Collaboration Tools
-- **設計工具**：Figma、Adobe XD、Photoshop 切版
-- **版本控制**：Git、Code Review
-- **專案管理**：跨團隊協作
+---
 
+## 一分鐘認識我
 
-## 精選作品 Selected Works
-### 數位平台系列專案
-[數位媒體網站](https://www.marieclaire.com.tw/) (2017/07 ~ present)  
-[電子商務網站](https://magazine.marieclaire.com.tw/) (2021/12 ~ present)  
-[線上課程網站](https://class.marieclaire.com.tw/) (2022/09 ~ present)  
-#### 涵蓋媒體、電子商務與線上課程網站的數位產品平台。
-- **使用技術**：HTML、SCSS、JavaScript、GA4、GTM、SEO
-- **核心職責**：
-  - 主導三個平台的前端架構設計與開發，負責核心功能模組的設計與實作
-  - 執行網站架構重構專案，優化程式碼結構與載入策略，提升頁面載入速度提升
-  - 設計並實作完整的 GA4 事件追蹤方案，建立數據儀表板，支援行銷與業務決策
-  - 開發響應式前端解決方案，確保三個平台在手機、平板、桌機皆有優異的使用體驗
-  - 開發電商購物車、會員系統、課程播放器等核心功能，優化用戶轉換流程
-  - 建立前端開發規範與 Code Review 流程，提升團隊開發效率與程式碼品質
-- **專案成果**：
-  - 重構網站結構並優化前端性能，提升頁面加載速度並減少用戶流失
-  - 整合數據追蹤與分析工具，支持行銷活動與業務成效的持續監控與優化
-  - 透過數據驅動決策，顯著提升電子商務平台的轉換率與課程網站的曝光量
-  - 加強前端測試與品質控制流程，穩定交付高品質產品，提升團隊工作效率
+| | |
+|---|---|
+| **年資** | 前端／網頁開發 11 年，現職 9 年 |
+| **主力技術** | JavaScript (ES6+)、Vue.js、Nuxt.js、SCSS、Node.js |
+| **擅長** | 前端架構設計、元件庫建置、效能優化、工程規範導入 |
+| **產品經驗** | 內容平台、電子商務、線上課程、活動型專案 |
+| **附加能力** | GA4／GTM 追蹤設計、SEO 架構、Puppeteer 自動化 |
 
-### 行銷活動網站專案
-[ZEROTONE](https://events.marieclaire.com.tw/2026/zero-to-one/) (2026/03 ~ 2026/07)  
-[Gifted Hours](https://events.marieclaire.com.tw/2025/gift/) (2025/10 ~ 2026/02)  
-[shoppingday](https://events.marieclaire.com.tw/2024/shoppingday/) (2024/02 ~ 2024/06)  
-[Beauty Prizes 2024](https://events.marieclaire.com.tw/2024/beauty-prizes/) (2024/02 ~ 2024/05)  
-[MC Galaxy](https://events.marieclaire.com.tw/2023/mc-galaxy/) (2023/10 ~ 2024/02)  
-[Gift Guide](https://events.marieclaire.com.tw/2023/gift/) (2023/09 ~ 2024/01)  
-[Top 100 Beauty](https://events.marieclaire.com.tw/2023/beautytop100/) (2023/08 ~ 2023/12)  
-[Pink Run](https://events.marieclaire.com.tw/2023/pinkrun/) (2023/06 ~ 2023/11)  
-[Beauty Prizes Game](https://events.marieclaire.com.tw/2023/beauty-prizes/game.html) (2023/02 ~ 2023/06)  
-#### 以年度活動或行銷企劃為主題的網站，結合視覺設計與前端互動技術，提升品牌曝光與會員活躍度。
-- **使用技術**：JavaScript(Vue)、Nuxt、CSS(SCSS)、Swiper.js、Canvas、GA4、GTM
-- **核心職責**：
-  - 精準實作設計稿與複雜動畫效果，確保視覺還原度 95%+，強化品牌一致性
-  - 設計並開發互動模組與 Canvas 小遊戲，提升用戶參與度與活動轉換率
-  - 開發響應式前端架構，確保手機與桌機皆有流暢的互動體驗
-  - 串接內部 API 實作會員驗證、表單收集、抽獎系統等核心功能
-  - 規劃 SEO 結構化資料與 GA4 事件追蹤，建立完整的數據分析體系
-  - 建立可複用的活動網站模板，加速後續專案開發時程
-- **專案成果**：
-  - 成功強化行銷活動的互動性與趣味性，顯著提升會員參與率
-  - 提供穩定可靠的前端架構，支援多期活動快速上線與維護
-  - 強化品牌數位形象，促進用戶對活動網站的黏著與分享
+---
+
+## 技術 Technologies
+
+**語言與樣式** JavaScript (ES6+)、HTML5、CSS3、SCSS/SASS
+
+**框架** Vue.js、Nuxt.js
+
+**工具鏈** Vite、Node.js、Git、CI/CD
+
+**數據與 SEO** Google Analytics 4、Google Tag Manager、結構化資料、語義化 HTML
+
+**自動化** Puppeteer、排程資料處理
+
+**協作** Figma、Adobe XD、Code Review、跨部門需求溝通
+
+<!--
+【待補，補完再公開】
+React + TypeScript 實作 repo ×2：
+- 元件庫（React + TypeScript + Storybook）
+- 資料密集型後台（大型表格、篩選排序、圖表、表單驗證）
+repo 完成前不要寫「熟悉 React」。
+-->
+
+---
+
+## 做過的事 Selected Work
+
+### 數位產品平台前端架構 ・ 2017 – 至今
+
+同時維運三個產品線的前端：內容平台、電商平台、線上課程平台。
+
+- 主導三個平台的前端架構設計與核心模組開發
+- 執行架構重構，重整程式碼結構與資源載入策略
+- 建立三平台一致的響應式實作標準，涵蓋桌機、平板、行動裝置
+- 頁面載入時間較重構前縮短約 40%（Lighthouse 量測）
+
+[內容平台](https://www.marieclaire.com.tw/) ・ [電商平台](https://magazine.marieclaire.com.tw/) ・ [線上課程平台](https://class.marieclaire.com.tw/)
+
+### 電商與會員系統
+
+- 開發購物車與結帳流程、會員註冊登入、訂單查詢等交易核心功能
+- 實作課程播放器與觀看進度管理
+- 串接內部 API 完成會員驗證、表單收集、活動抽獎等機制
+- 以 GA4 建立轉換漏斗追蹤，定位流失環節並據以調整流程
+
+### 共用元件庫與專案樣板系統
+
+- 盤點九個以上專案的共同介面需求，收斂為統一的元件與樣板集合
+- 建立標準化的專案初始化流程，新專案直接沿用既有結構
+- 設計廣告素材範本系統，將易出錯的手動配置改為規格化流程
+- 制定元件的使用與擴充規範供團隊依循
+
+### 資料處理自動化
+
+- 以 Node.js 與 Puppeteer 建置自動化擷取與整理流程
+- 實作排程執行、資料清洗、輸出格式標準化與錯誤通報
+- 原本每週約 8 小時的人工資料整理作業完全由系統接手
+
+### 數據追蹤與 SEO 架構
+
+- 設計 GA4 事件追蹤方案與數據儀表板，作為產品與營運決策依據
+- 導入 GTM 並建立標準化配置流程，整合原本分散的追蹤碼
+- 建置結構化資料與 meta 規範，提升內容在搜尋結果的呈現完整度
+
+### 工程規範與 CI/CD
+
+- 制定前端開發規範，涵蓋程式碼風格、目錄結構與元件設計原則
+- 建立 Code Review 流程並實際擔任審查者
+- 導入 Git Flow 分支策略與 CI/CD 自動化建置部署
+
+### 高頻專案交付紀錄 ・ 2023 – 2026
+
+每個專案需在數週至數月內完成從設計稿到上線的完整前端實作，包含互動模組、Canvas 小遊戲與 API 串接。
+
+[ZEROTONE](https://events.marieclaire.com.tw/2026/zero-to-one/) ・ [Gifted Hours](https://events.marieclaire.com.tw/2025/gift/) ・ [shoppingday](https://events.marieclaire.com.tw/2024/shoppingday/) ・ [Beauty Prizes](https://events.marieclaire.com.tw/2024/beauty-prizes/) ・ [MC Galaxy](https://events.marieclaire.com.tw/2023/mc-galaxy/) ・ [Gift Guide](https://events.marieclaire.com.tw/2023/gift/) ・ [Top 100 Beauty](https://events.marieclaire.com.tw/2023/beautytop100/) ・ [Pink Run](https://events.marieclaire.com.tw/2023/pinkrun/)
+
+---
 
 ## 工作經歷 Experience
 
-### 國際亞洲出版股份有限公司 - 前端網頁工程師
-#### Asia Press Publishing Co., Ltd. - Front-End Engineer
-**任職期間**：2017/07 ~ present (9年+) | **產業**：數位媒體出版
+### 國際亞洲出版股份有限公司 ｜ 前端網頁工程師
+**2017/07 – 至今（9 年）**｜數位媒體出版
 
-**核心成就**：
--  **專案主導**：主導 95%+ 活動網站前端開發，從需求分析到上線部署全程負責
--  **效能優化**：執行多個大型網站重構專案，頁面載入速度提升 40%+，用戶體驗顯著改善
--  **自動化開發**：開發 Puppeteer 自動化爬蟲系統，將人工資料整理時間從每週 8 小時降至 0，效率提升 100%
--  **數據整合**：導入並配置 Google Tag Manager，建立標準化追蹤流程，追蹤碼整合時間減少 70%
--  **流程優化**：制定前端開發規範與 Code Review 流程，導入 Git Flow 與 CI/CD，團隊開發效率提升 30%+
--  **工具開發**：設計可複用的廣告素材範本系統，降低出錯率 80%，節省上稿時間 50%+
+三個產品平台的長期前端負責人，從架構設計、核心功能開發到工程規範建立全程參與。負責電商交易流程、會員系統、課程播放器等核心模組，並建立共用元件庫、開發規範與 CI/CD 流程。另開發 Puppeteer 自動化系統取代週期性人工資料作業。
 
-### 明陽旅行社有限公司 - 前端工程師
-#### Ming Yang Travel Service Co., Ltd. - Front-End Engineer
-**任職期間**：2015/09 ~ 2017/06 | **產業**：旅遊業
+### 明陽旅行社有限公司 ｜ 2013/01 – 2017/06（4 年 6 個月）｜旅遊業
 
-**核心成就**：
-- **業務成長**：規劃並建立四個特定產品網站，單一網站平均提升 10% 營業額，總攬 100% 網路銷售業務
-- **全端開發**：獨立負責網站前後端開發、資料庫設計與 SEO 優化，建立完整的電商系統
+內部由網路工程師轉任前端工程師，負責公司全部的線上銷售業務。
 
-### 明陽旅行社有限公司 - 網路工程師
-#### Ming Yang Travel Service Co., Ltd. - Internet Engineer
-**任職期間**：2013/12 ~ 2015/08 | **產業**：旅遊業
+**前端工程師** ・ 2015/01 – 2017/06
+- 獨立負責四個產品網站的前後端開發、資料庫設計與 SEO
+- 建立完整的線上訂購與客戶管理流程
 
-**核心成就**：
-- **SEO 優化**：建立並維護產品銷售網站，目標關鍵字一年內常駐 Google 搜尋結果第一頁
-- **內容行銷**：同時管理六個部落格，透過內容行銷策略，網路能見度提升 90%+
+**網路工程師** ・ 2013/01 – 2014/12
+- 建置並維護產品銷售網站，目標關鍵字於一年內進入 Google 搜尋結果第一頁
+- 同時經營六個內容部落格，建立自然流量來源
 
-### 豪鎂實業有限公司 - 網路行銷企劃
-#### How Mei Enterprise Co., Ltd. - Internet Marketing Planner
-**任職期間**：2011/10 ~ 2013/11 | **產業**：貿易業
+### 早期經歷
 
-**核心成就**：
-- **SEO 成效**：建立並維護企業形象網站，目標關鍵字半年內進入 Google 搜尋結果第一頁，部分關鍵字達前三名
-- **電商營運**：同時管理五個電商平台（PChome、Yahoo、MoMo 等），網路銷售額占總銷售額 70%+
-- **社群經營**：經營 Facebook 等社群平台，80%+ 客戶表示透過網路得知公司資訊
+**豪鎂實業有限公司** ｜ 網路行銷企劃 ｜ 2011/01 – 2012/12  
+建置企業形象網站與管理五個電商平台營運，目標關鍵字於半年內進入 Google 第一頁。
 
+---
 
 ## 學歷 Education
 
-**國立台北商業大學** | 資訊管理系 | 學士學位  
-Bachelor of Information Management, National Taipei University of Business, Taipei, Taiwan
+**國立臺北商業大學** ｜ 資訊管理系 ｜ 學士
+Bachelor of Information Management, National Taipei University of Business
+
+---
+
+## 關於我 About
+
+在同一家公司持續九年，是因為我想看到自己蓋的系統長期跑下去會發生什麼事——哪些設計撐得住需求變化，哪些抽象是過度設計，哪些技術債會在三年後回來找你。  
+這段經驗讓我比較習慣用「這個決定三年後會怎樣」的角度做前端選擇。  
+接下來想把這套能力放到規模更大、工程複雜度更高的產品上。
+
+> 期許自己成為能把任何想法實踐成具體產品的工程師。
