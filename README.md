@@ -49,18 +49,20 @@
 - 建立三平台一致的響應式實作標準，涵蓋桌機、平板、行動裝置
 - 頁面載入時間較重構前縮短約 40%（Lighthouse 量測）
 
-[內容平台](https://www.marieclaire.com.tw/) ・ [電商平台](https://magazine.marieclaire.com.tw/) ・ [線上課程平台](https://class.marieclaire.com.tw/)
+產品連結：[內容平台](https://www.marieclaire.com.tw/) ・ [電商平台](https://magazine.marieclaire.com.tw/) ・ [線上課程平台](https://class.marieclaire.com.tw/)
 
 ### 電商與會員系統
 
-- 開發購物車與結帳流程、會員註冊登入、訂單查詢等交易核心前端功能
-- 實作課程播放器與觀看進度管理前端部分
+負責前端實作，後端 API 與金流串接由後端團隊提供。
+
+- 開發購物車與結帳流程、會員註冊登入、訂單查詢等交易核心功能
+- 實作課程播放器與觀看進度管理
 - 串接內部 API 完成會員驗證、表單收集、活動抽獎等機制
 - 以 GA4 建立轉換漏斗追蹤，定位流失環節並據以調整流程
 
 ### 共用元件庫與專案樣板系統
 
-- 盤點多個專案的共同介面需求，收斂為統一的元件與樣板集合
+- 盤點三個平台與歷年活動專案的共同介面需求，收斂為統一的元件與樣板集合
 - 建立標準化的專案初始化流程，新專案直接沿用既有結構
 - 設計廣告素材範本系統，將易出錯的手動配置改為規格化流程
 - 制定元件的使用與擴充規範供團隊依循
@@ -85,11 +87,12 @@
 
 ### 高頻專案交付紀錄 ・ 2018 – 至今
 
-活動型專案的交付節奏長期維持在每月兩個左右，每個需在數週內完成從設計稿到上線的完整前端實作，包含互動模組、Canvas 小遊戲與 API 串接。
+活動型專案的交付節奏長期維持在每月兩個左右，每個需在數週內完成從設計稿到上線的完整前端實作，  
+包含互動模組、Canvas 小遊戲與 API 串接。
 
-為了維持高頻節奏，設計統一的專案樣板、開發規範與一鍵部署流程，讓每個專案的工時集中在真正需要客製的地方。
+為了維持這個節奏，設計統一的專案樣板、開發規範與一鍵部署流程，讓每個專案的工時集中在真正需要客製的地方。
 
-[ZEROTONE](https://events.marieclaire.com.tw/2026/zero-to-one/) ・ [Gifted Hours](https://events.marieclaire.com.tw/2025/gift/) ・ [shoppingday](https://events.marieclaire.com.tw/2024/shoppingday/) ・ [Beauty Prizes](https://events.marieclaire.com.tw/2024/beauty-prizes/) ・ [MC Galaxy](https://events.marieclaire.com.tw/2023/mc-galaxy/) ・ [Gift Guide](https://events.marieclaire.com.tw/2023/gift/) ・ [Top 100 Beauty](https://events.marieclaire.com.tw/2023/beautytop100/) ・ [Pink Run](https://events.marieclaire.com.tw/2023/pinkrun/)
+近年代表專案：[ZEROTONE](https://events.marieclaire.com.tw/2026/zero-to-one/) ・ [Gifted Hours](https://events.marieclaire.com.tw/2025/gift/) ・ [shoppingday](https://events.marieclaire.com.tw/2024/shoppingday/) ・ [Beauty Prizes](https://events.marieclaire.com.tw/2024/beauty-prizes/) ・ [MC Galaxy](https://events.marieclaire.com.tw/2023/mc-galaxy/) ・ [Gift Guide](https://events.marieclaire.com.tw/2023/gift/) ・ [Top 100 Beauty](https://events.marieclaire.com.tw/2023/beautytop100/) ・ [Pink Run](https://events.marieclaire.com.tw/2023/pinkrun/)
 
 ---
 
